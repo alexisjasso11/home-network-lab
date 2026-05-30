@@ -15,6 +15,8 @@ Built a physical and virtualized home network lab to gain hands-on experience wi
 
 ## What I Built & Configured
 - Deployed multiple virtual machines across segmented VLANs
+## Network Topology
+![Network Diagram](topology.png)
 - Configured pfSense firewall rules to control inter-VLAN traffic
 - Set up DHCP scopes per VLAN for automatic IP assignment
 - Implemented trunking between switch and pfSense for VLAN routing
