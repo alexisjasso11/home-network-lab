@@ -30,5 +30,21 @@ Built a physical and virtualized home network lab to gain hands-on experience wi
 - Implemented trunking between switch and pfSense for VLAN routing
 - Diagnosed and resolved various connectivity issues across the environment
 
+## Troubleshooting & Challenges
+
+### Static IP Configuration for pfSense Web Interface Access
+- Encountered multiple connectivity issues when attempting to access the 
+  pfSense web interface via HTTP from laptop
+- Diagnosed the issue through various methods but
+  concluded with static IP assignment
+- Resolved by manually configuring a static IP address on the 
+  ThinkPad to match the correct subnet of the pfSense LAN interface
+- Ensured the static IP was outside the DHCP scope to avoid 
+  address conflicts on the network
+- Successfully accessed the pfSense dashboard via HTTP after 
+  correct static IP configuration
+- Learned the importance of proper IP addressing and subnet 
+  alignment when managing network devices through a web interface
+
 ## What I Learned
 Gained practical understanding of how enterprise networks are structured, how traffic flows between segments, and how firewalls enforce security policies at the network level. This directly maps to concepts tested in CompTIA Security+ and foundational cloud networking in Azure and AWS.
