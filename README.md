@@ -11,7 +11,7 @@ Built a physical and virtualized home network lab to gain hands-on experience wi
 - Managed 8 port switch (GS308E)
   - Configured VLANs and trunking to connect and segment devices
 - Laptop (ThinkPad)
-  - Managed pfSense firewall dashboard via HTTPS web interface
+  - Managed pfSense firewall dashboard via HTTPS web interface as well as Netgear switch via HTTPS web interface
 
 ## Software & Tools
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
