@@ -28,7 +28,7 @@ Built a physical and virtualized home network lab to gain hands-on experience wi
 - Configured pfSense firewall rules to control inter-VLAN traffic
 - Set up DHCP scopes per VLAN for automatic IP assignment
 - Implemented trunking between switch and pfSense for VLAN routing
-- Diagnosed and resolved real connectivity issues across the environment
+- Diagnosed and resolved various connectivity issues across the environment
 
 ## What I Learned
 Gained practical understanding of how enterprise networks are structured, how traffic flows between segments, and how firewalls enforce security policies at the network level. This directly maps to concepts tested in CompTIA Security+ and foundational cloud networking in Azure and AWS.
