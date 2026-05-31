@@ -6,9 +6,10 @@ Built a physical and virtualized home network lab to gain hands-on experience wi
 ## Hardware Used
 ![Lenovo](https://img.shields.io/badge/Lenovo_ThinkCentre-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)
 ![Netgear](https://img.shields.io/badge/Netgear-FF6600?style=for-the-badge&logo=netgear&logoColor=white)
-- Mini PC running Proxmox hypervisor
-- Managed switch
-- Various endpoint devices
+- Mini PC (M625Q)
+  - Used to run Proxmox hypervisor to host pfSense VM
+- Managed 8 port switch (GS308E)
+- Laptop (ThinkPad)
 
 ## Software & Tools
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
