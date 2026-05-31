@@ -11,7 +11,7 @@ Built a physical and virtualized home network lab to gain hands-on experience wi
 ## Software & Tools
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - Proxmox VE — hypervisor and virtual machine management
 - pfSense — firewall, routing, and DHCP management
 - VLANs and trunking configured via managed switch
