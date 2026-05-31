@@ -1,6 +1,6 @@
 # Home Network Lab — Proxmox / pfSense / Managed Switch
 
-## Overview
+## Lab Summary
 Built a physical and virtualized home network lab to gain hands-on experience with real-world networking concepts including network segmentation, firewall management, and infrastructure troubleshooting.
 
 ## Hardware Used
